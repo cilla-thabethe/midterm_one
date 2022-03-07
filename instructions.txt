@@ -1,0 +1,35 @@
+Mid Term Assessment: Class One 
+Assessment Duration: 1h 45min 
+Assessment Part One: Classes & Constructors 
+Assessment Part Two: React, Routing & Axios 
+
+Please enter your details below: 
+
+Name & Surname: Priscilla Thabethe
+Student Number: 21100437@virtualwindow.co.za
+
++++++ Assessment Components ++++++
+
+PART ONE: Classes & Constructors
+ - The classes and constructors directory, and required files have been created for you.
+ - All assessment instructions for this section can be found in the index.js file.
+
+PART TWO: React, Routing & Axios
+ - The myreactapp directory has been created for you.
+ - You will conduct your react install here, ensuring this is the root directory for the app. 
+ - All assessment instructions for this section can be found in the instructions.txt file.
+
+ 
++++++ Handing In ++++++
+
+ - Using GitHub desktop create a new GitHub Repository and call it midterm_T1_000000 (your student number)
+ - Copy and past the TWO directories into this repository. Remember to DELETE node_modules before you copy the react directory over!
+ - Create a commit = 'Its all over!'
+ - Publish and push to GitHub, then navigate to GitHub and ensure the files are correctly hosted.
+ - Add your lecturer: mike@openwindow.co.za || mikemaynard14
+ - Add your assistant lecturer: leo@openwindow.co.za || Leo-Kuyper
+
+
+==== COMPLETE ===
+
+
